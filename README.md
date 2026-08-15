@@ -2,7 +2,8 @@
 
 <img src="ASSETS/Pagina_1_Visão%20geral.png" width="700">
 
-🔗 **[Acesse o dashboard interativo aqui](https://app.powerbi.com/reportEmbed?reportId=18c69a9b-6c35-4d55-b3cc-3d201f68eb13&autoAuth=true&ctid=6f9e3b1e-1809-444a-81d3-82d40a928812)** > ⚠️ **Nota de acesso:** o link requer uma conta Microsoft para visualização, devido às limitações do plano de estudante usado no Power BI. Além disso, o mapa de distribuição por estado (Página 1) não é exibido em relatórios publicados externamente — trata-se de uma restrição de licenciamento da Esri sobre o visual ArcGIS for Power BI, não um erro do relatório. Os prints estáticos abaixo mostram o dashboard completo, incluindo o mapa.
+🔗 **[Acesse o dashboard interativo aqui](https://app.powerbi.com/reportEmbed?reportId=18c69a9b-6c35-4d55-b3cc-3d201f68eb13&autoAuth=true&ctid=6f9e3b1e-1809-444a-81d3-82d40a928812)** 
+> ⚠️ **Nota de acesso:** o link requer uma conta Microsoft para visualização, devido às limitações do plano de estudante usado no Power BI. Além disso, o mapa de distribuição por estado (Página 1) não é exibido em relatórios publicados externamente — trata-se de uma restrição de licenciamento da Esri sobre o visual ArcGIS for Power BI, não um erro do relatório. Os prints estáticos abaixo mostram o dashboard completo, incluindo o mapa.
 
 Projeto de análise de dados ponta a ponta: SQL (PostgreSQL) → Python (pandas) → Power BI, aplicado a um problema real do setor financeiro — perfil de risco de crédito e comportamento de gastos de clientes bancários.
 
